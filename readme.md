@@ -15,6 +15,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Added: Selected Thumbnail is highlighted
 - Added: All minutes values to time selection
 - Added: Check date selection for invalid selections
+- Added: Lazy Loading (always active)
 - Fixed: Cameras not in Milestone are hidden
 - Fixed: Fixed JSONs to not send NULL data when search filter is empty
 - Fixed: Date/Time selection sends UTC to the server
