@@ -4,6 +4,71 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.0.0] - 01.07.2022
+
+- Fixed: Setup Watchlist Panel cannot be opened when there are no machtlists in the Active Guard Server
+- Fixed: "Include selected camera" filter
+- Fixed: Multi-sensor cameras not displayed correctly in playback and camera filter
+- Fixed: Cameras not being displayed when the server response contains a GUID as camera ID
+- Fixed: The filter page was changing size after minimizing
+- Fixed: People registration not displaying the same attributes as the Detected Info panel
+- Fixed: Saved Watchlist Panel displaying 0 cameras when cameras are saved
+- Fixed: Update Face Registration Panel now automatically fills in with the currently registered attributes
+- Fixed: Face Watchlist not searching correctly when "Arbitrary" is selected for gender
+- Fixed: Detected Info Panel displaying inverted information between short and long bottom types
+- Fixed: Detected Info Panel vehicle info
+- Fixed: Vehicle similar search
+- Fixed: Save snapshot path containing special characters
+- Changed: Action buttons now only display for images that contain their specific registration face/people/vehicle
+- Changed: Panels now close when the user clicks outside of them
+- Changed: Show/Hide cameras based on AI Capability
+
+## [0.9.7] - 13.05.2022
+
+- Fixed: Adding new watchlist from the Smart Client
+- Fixed: The image from the People Watchlist Panel now displays correctly
+- Fixed: Fields in the People Watchlist Panel were being set to an incorrect default value
+- Fixed: Filter tooltip
+- Fixed: The search panel should only display available filters according to API response
+- Fixed: Adjusted filters strings to be more user-friendly
+- Fixed: Saved filters not saving the date and time
+- Fixed: GUI sizing and spelling
+- Fixed: Tabs cannot be closed
+- Fixed: Json serializer
+- Fixed: Face Registration image sent to the server was not cropped
+- Fixed: Detected Info displaying the wrong data for Hair_Color: Gold
+- Fixed: Right-click on playbacl window crashes the Smart Client
+- Fixed: People watchlist fields now reset correctly
+- Changed: The Clear and Cancel buttons now cancel / clear the search using the API instead of locally
+- Changed: The default value of the video playback start time is now set to 5 seconds before the timestamp on the image
+- Removed: Loading Thumbnails from disk
+
+## [0.9.4] - 16.04.2022
+
+- Added: Face Registration Panel
+- Added: Update Face Registration Panel
+- Added: Thumbnail Face Cropping
+- Added: Loading Thumbnails from disk
+- Added: Thumbnail Context Menu
+- Added: Multi Tab search
+- Added: Filters
+- Added: Save Filters
+- Added: Clear Filters
+- Added: Filter Tooltips
+- Added: People Registration Panel
+- Added: Search Matchlist thumbnails
+- Added: Setup Watchlist Panel
+- Added: Right Click Menu for face matching
+- Added: Clear Button in 
+- Fixed: Lazy Loading
+- Fixed: DateTime Picker
+- Fixed: Delete Face Registration
+- Fixed: UI style
+- Fixed: Selecting cameras
+- Fixed: Sort option
+- Changed: Improved search and thumbnail retrieval
+
+
 ## [0.9.2] - 21.03.2022
 
 - Added: Vehicle Search Filters
