@@ -6,17 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.1] - 05.10.2022
 
--Added Initial Search Message
--Added Image of Selected Tumbnail next to video
--Added Search by attribute
--Added Bag, Bag Color, Shoes filter
--Added Similar face search function
--Added Search only within: Past 24 hours/Past week/Past month
--Fixed Issue #32 Attribute shown in people registration from Actions is not correct
--Fixed Issue #34 Registered parameter for face watchlist need to be shown for update face registration window
--Fixed Issue #36 "Cameras" in People watchlist does not work for new registration and update
--Fixed Issue #38 Bottom type detected info in people search is not correct
--Fixed Issue #41 Add face image to existing face watchlist (Currently only 1 face image can be registered)
+- Added: Initial Search Message
+- Added: Image of Selected Tumbnail next to video
+- Added: Search by attribute
+- Added: Bag, Bag Color, Shoes filter
+- Added: Similar face search function
+- Added: Search only within: Past 24 hours/Past week/Past month
+- Fixed: Issue #32 Attribute shown in people registration from Actions is not correct
+- Fixed: Issue #34 Registered parameter for face watchlist need to be shown for update face registration window
+- Fixed: Issue #36 "Cameras" in People watchlist does not work for new registration and update
+- Fixed: Issue #38 Bottom type detected info in people search is not correct
+- Fixed: Issue #41 Add face image to existing face watchlist (Currently only 1 face image can be registered)
 
 ## [1.0.0] - 01.07.2022
 
