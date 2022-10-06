@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.0.1] - 05.10.2022
+## [1.0.1] - 06.10.2022
 
 - Added: Initial Search Message
 - Added: Image of Selected Tumbnail next to video
@@ -17,6 +17,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Issue #36 "Cameras" in People watchlist does not work for new registration and update
 - Fixed: Issue #38 Bottom type detected info in people search is not correct
 - Fixed: Issue #41 Add face image to existing face watchlist (Currently only 1 face image can be registered)
+- Fixed: Issue #43 Some filter option for Bag, Bag color and Shoes color should be shown when "Advanced filter" is clicked.
+- Fixed: Issue #45 Search result of people search with default filter (just "on") will be always 0
 
 ## [1.0.0] - 01.07.2022
 
