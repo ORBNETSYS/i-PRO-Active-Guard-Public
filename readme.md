@@ -21,6 +21,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Issue #43 Some filter option for Bag, Bag color and Shoes color should be shown when "Advanced filter" is clicked.
 - Fixed: Issue #45 Search result of people search with default filter (just "on") will be always 0
 - Fixed: Issue #46 Face image from watchlist cannot be set for face filter
+- Fixed: Issue #47 Start and End time for search API is not correct when unchecked for "Search only within" 
 
 ## [1.0.0] - 01.07.2022
 
