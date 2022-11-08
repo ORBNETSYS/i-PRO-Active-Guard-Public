@@ -8,7 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Added: Face Upload
 - Added: HTML Export
-- Added: MD 3. Export / Snapshot / Move to Playback
+- Added: MD 3. Export / Snapshot / Move to Playback (TODO: Add camera to playback tab)
 - Changed: MD 2. Filter Selection Square (make check of checkbox bigger)
 - Changed: MD 5. Refine Filter (Make Clear All button smaller and make Search button bigger but left it as a tick instead of a square)
 - Changed: MD 7. Clear, clears all open results
