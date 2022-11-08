@@ -14,7 +14,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: MD 7. Clear, clears all open results
 - Changed: MD 10. Information window, make close a little more obvious
 - Changed: MD 12. Larger text on Date/Time (Start-End)
-- Chnaged: MD 14. Better minimising of search filter window on left 
+- Changed: MD 14. Better minimising of search filter window on left 
+- Fixed: Unable to scroll-down filters on small monitors
 
 ## [1.0.1] - 11.10.2022
 
