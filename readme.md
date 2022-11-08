@@ -4,9 +4,18 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+## [1.0.2] - In progress
+
+- Added: Face Upload
+- Added: HTML Export
+- Added: MD 3. Export / Snapshot / Move to Playback 
+- Changed: MD 2. Filter Selection Square (make check of checkbox bigger)
+- Changed: MD 5. Refine Filter (Make Clear All button smaller and make Search button bigger)
+- Changed: MD 7. Clear, clears all open results
+
 ## [1.0.1] - 11.10.2022
 
-- Added: Initial Search Message
+- Added: MD 8. Initial Search Message
 - Added: Image of Selected Tumbnail next to video
 - Added: Search by attribute
 - Added: Bag, Bag Color, Shoes filter
