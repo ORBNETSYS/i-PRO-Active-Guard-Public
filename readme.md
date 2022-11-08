@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: MD 2. Filter Selection Square (make check of checkbox bigger)
 - Changed: MD 5. Refine Filter (Make Clear All button smaller and make Search button bigger)
 - Changed: MD 7. Clear, clears all open results
+- Changed: MD 10. Information window, make close a little more obvious
 
 ## [1.0.1] - 11.10.2022
 
