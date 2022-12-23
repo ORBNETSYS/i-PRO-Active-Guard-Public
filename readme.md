@@ -8,7 +8,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 - Added: Face Upload
 - Added: HTML Export
+- Added: Categories for Face Registrations
+- Added: Face registration Active Guard Sevrer is automatically set when registering a new tumbnail or changing an existing thumbnail
+- Added: Face upload when adding or updating a face registration (saving does not work yet)
+- Added: Face upload: with multiple selection for faces
+- Added: Face upload: zoom, clear selected photo
+- Added: Face upload: padding added to the faces that are close to the margin
+- Added: AG Server dropdown list on SetupWatchlists and at Face Watchlist search filters
 - Added: MD 3. Export / Snapshot / Move to Playback (TODO: Add camera to playback tab)
+- Changed: Camera/Server/FeatureSelection checkboxes selection/deselection
 - Changed: MD 2. Filter Selection Square (make check of checkbox bigger)
 - Changed: MD 5. Refine Filter (Make Clear All button smaller and make Search button bigger but left it as a tick instead of a square)
 - Changed: MD 7. Clear, clears all open results
@@ -16,15 +24,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: MD 12. Larger text on Date/Time (Start-End)
 - Changed: MD 14. Better minimising of search filter window on left 
 - Fixed: Unable to scroll-down filters on small monitors
-- Added: Face upload: with multiple selection for faces
-- Added: Face upload: zoom, clear selected photo
-- Added: Face upload: padding added to the faces that are close to the margin
-- Added: AG Server dropdown list on SetupWatchlists and at Face Watchlist search filters
 - Fixed: Updating an existing face registration doesnt override the representative face
-- Added: Face upload when adding or updating a face registration (saving does not work yet)
 - Fixed: Person registration window
-- Changed: Camera/Server/FeatureSelection checkboxes selection/deselection
-- Added: Face registration is automatically sent to the AG source server, no server selection, this might change if server selection is added to face registration in the future
 
 ## [1.0.1] - 11.10.2022
 
