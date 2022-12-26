@@ -26,6 +26,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Unable to scroll-down filters on small monitors
 - Fixed: Updating an existing face registration doesnt override the representative face
 - Fixed: Person registration window
+- Fixed: Panel re-sizing
 
 ## [1.0.1] - 11.10.2022
 
