@@ -27,6 +27,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Updating an existing face registration doesnt override the representative face
 - Fixed: Person registration window
 - Fixed: Panel re-sizing
+- Fixed: Edit people watchlists UI fixes
+- Fixed: Issue #32 Attribute shown in people registration from Actions is not correct
+- Fixed: Issue #34 Registered parameter for face watchlist need to be shown for update face registration window
+- Fixed: Issue #36 "Cameras" in People watchlist does not work for new registration and update
+- Fixed: Issue #37 Detected Info and video playback window can get stuck.
+- Fixed: Issue #38 Bottom type detected info in people search is not correct
+- Fixed: Issue #41 Add face image to existing face watchlist (Currently only 1 face image can be registered)
+- Fixed: Issue #48 "Category" in face watchlist cannot be registered
+- Fixed: Issue #49 Exception error occurs if user enter a watchlist name for People watchlist when there is no watchlist registered
+- Fixed: Issue #50 Validity period for People watchlist may be unintentionally specified in API
+- Fixed: Issue #51 Milestone 2022 - R3 - Active Guard Plugin 1.01 - Face tab
 
 ## [1.0.1] - 11.10.2022
 
