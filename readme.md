@@ -6,6 +6,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.3] - In Progress
 
+## 13.01.2023
+
 - Fixed: Installer not starting Event Server if it was stopped fixed
 - Fixed: Issue #54 Fixed Save button not showing up in face registration window
 - Fixed: Issue #55 Fixed applying saved filter: dates from utc, selected cameras
