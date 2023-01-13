@@ -4,7 +4,20 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.0.2] - In progress
+## [1.0.3] - In Progress
+
+- Fixed: Installer not starting Event Server if it was stopped fixed
+- Fixed: Issue #54 Fixed Save button not showing up in face registration window
+- Fixed: Issue #55 Fixed applying saved filter: dates from utc, selected cameras
+- Fixed: Issue #56 Fixed checking cameras by feature
+- Fixed: Issue #57 People registering from Actions fixes
+- Fixed: Issue #58 Fixed typo
+- Fixed: Issue #59 Changes to the tooltip for saved filters
+- Fixed: Issue #60 Fixed Html export
+- Fixed: Issue #61 Removed TODO message
+- Fixed: Issue #65 Fixed search_tumbnail_1 typo
+
+## [1.0.2] - 10.01.2023
 
 - Added: Face Upload
 - Added: HTML Export
