@@ -4,9 +4,9 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-## [1.0.3] - In Progress
+# [1.0.3] - In Progress
 
-# 17.01.2023
+## 17.01.2023
 
 - Fixed: Issue #59 In the Tooltip for Saved filter, Date&time is not shown and bags color text is no need.
 - Fixed: Issue #60 "Filter condition", time and camera name in Exported html file is not correct.
@@ -29,7 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Issue #61 Removed TODO message
 - Fixed: Issue #65 Fixed search_tumbnail_1 typo
 
-## [1.0.2] - 10.01.2023
+# [1.0.2] - 10.01.2023
 
 - Added: Face Upload
 - Added: HTML Export
@@ -66,7 +66,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Issue #52 Filter color for bag color and shoes color with Exclude selected color option is not correct
 - Fixed: Issue #53 "middle" is used in API when threshold "High" is selected for People search filter
 
-## [1.0.1] - 11.10.2022
+# [1.0.1] - 11.10.2022
 
 - Added: MD 8. Initial Search Message
 - Added: MD 11. Lost Thumbnail in Playback Window
@@ -85,7 +85,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Fixed: Issue #46 Face image from watchlist cannot be set for face filter
 - Fixed: Issue #47 Start and End time for search API is not correct when unchecked for "Search only within" 
 
-## [1.0.0] - 01.07.2022
+# [1.0.0] - 01.07.2022
 
 - Fixed: Setup Watchlist Panel cannot be opened when there are no machtlists in the Active Guard Server
 - Fixed: "Include selected camera" filter
@@ -104,7 +104,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: Panels now close when the user clicks outside of them
 - Changed: Show/Hide cameras based on AI Capability
 
-## [0.9.7] - 13.05.2022
+# [0.9.7] - 13.05.2022
 
 - Fixed: Adding new watchlist from the Smart Client
 - Fixed: The image from the People Watchlist Panel now displays correctly
@@ -124,7 +124,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: The default value of the video playback start time is now set to 5 seconds before the timestamp on the image
 - Removed: Loading Thumbnails from disk
 
-## [0.9.4] - 16.04.2022
+# [0.9.4] - 16.04.2022
 
 - Added: Face Registration Panel
 - Added: Update Face Registration Panel
@@ -150,7 +150,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Changed: Improved search and thumbnail retrieval
 
 
-## [0.9.2] - 21.03.2022
+# [0.9.2] - 21.03.2022
 
 - Added: Vehicle Search Filters
 - Added: Sort thumbnails by Hour
