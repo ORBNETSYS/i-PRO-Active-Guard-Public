@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.3] - In Progress
 
+## 17.01.2023
+
+- Fixed: Issue #59 In the Tooltip for Saved filter, Date&time is not shown and bags color text is no need.
+- Fixed: Issue #60 "Filter condition", time and camera name in Exported html file is not correct.
+- Fixed: Issue #62 [Multiple server registration] Default server name and IP address
+- Fixed: Issue #66 Set an upper limit of 31 days for the search date and time period
+- Fixed: Issue #67 When ”Search only within : Past month" is used, not 30 days but 31 days is better to be used in API
+- Fixed: Issue #69 Exception error when clicking expand filter area button after closing it
+- Fixed: Issue #71 Face search result becomes zero due to incorrect coordinate information
+
 ## 13.01.2023
 
 - Fixed: Installer not starting Event Server if it was stopped fixed
