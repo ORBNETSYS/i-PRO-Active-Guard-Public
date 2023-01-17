@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [1.0.3] - In Progress
 
-## 17.01.2023
+# 17.01.2023
 
 - Fixed: Issue #59 In the Tooltip for Saved filter, Date&time is not shown and bags color text is no need.
 - Fixed: Issue #60 "Filter condition", time and camera name in Exported html file is not correct.
