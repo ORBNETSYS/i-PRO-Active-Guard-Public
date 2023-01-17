@@ -8,6 +8,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## 17.01.2023
 
+- Added: Date filters reset on Clear filters
 - Fixed: Issue #59 In the Tooltip for Saved filter, Date&time is not shown and bags color text is no need.
 - Fixed: Issue #60 "Filter condition", time and camera name in Exported html file is not correct.
 - Fixed: Issue #62 [Multiple server registration] Default server name and IP address
