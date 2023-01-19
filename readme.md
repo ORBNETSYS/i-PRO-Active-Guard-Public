@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # [1.0.3] - In Progress
 
+## 19.01.2023
+
+- Fixed: Issue #64 People search - Similar face search from Actions will show Error dialog
+- Fixed: Issue #68 When multiple servers are used, deleting people watchlist failed in specific procedure
+- Fixed: Issue #72 Not local time but UTC time is shown for Validity period in face or people registration window
+- Fixed: Issue #73 Improve message when the detected face size is under 75 pixel
+- Fixed: Issue #74 Some minor improvements in exported HTML file, filter condition
+- Fixed: Issue #79 Exception error when uploading gif image for face filter
+
 ## 17.01.2023
 
 - Added: Date filters reset on Clear filters
