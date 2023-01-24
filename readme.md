@@ -6,6 +6,21 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # [1.0.3] - In Progress
 
+## 24.01.2023
+
+- Fixed: Issue #32 Attribute shown in people registration from Actions is not correct
+- Fixed: Issue #38 Bottom type detected info in people search is not correct
+- Fixed: Issue #53 "middle" is used in API when threshold "High" is selected for People search filter
+- Fixed: Issue #63 Face search - Similar face search from Actions should not enable people and vehicle filter
+- Fixed: Issue #70 Initial filter for face and people are not correct when starting Smart Client in some PC
+- Fixed: Issue #73 Improve message when the detected face size is under 75 pixel
+- Fixed: Issue #75 "First name" in face watchlist will be lost when changing Enable/Disable by right click menu
+- Fixed: Issue #76 Face watchlist can be created without face image
+- Fixed: Issue #77 Cannot see all face watchlists when more than 10 watchilsts are registered.
+- Fixed: Issue #78 Exception error when saving with 5 or more images in face registration
+- Fixed: Issue #80 Maximum number of characters in Face watchlist registration window
+- Fixed: Issue #82 [Multiple server registration]- Camera list in People watchlist registration window is always the list for 1st server
+
 ## 19.01.2023
 
 - Fixed: Issue #64 People search - Similar face search from Actions will show Error dialog
