@@ -6,6 +6,15 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # [1.0.3] - In Progress
 
+## 27.01.2023
+
+- Fixed: Issue #50 Validity period for People watchlist may be unintentionally specified in API
+- Fixed: Issue #60 "Filter condition", time and camera name in Exported html file is not correct.
+- Fixed: Issue #64 People search - Similar face search from Actions will show Error dialog
+- Fixed: Issue #73 Improve message when the detected face size is under 75 pixel
+- Fixed: Issue #78 Exception error when saving with 5 or more images in face registration
+- Fixed: Issue #84 [Upload photo] Maximum size 512x512 should be applied for not whole image but cropped face area
+
 ## 24.01.2023
 
 - Fixed: Issue #32 Attribute shown in people registration from Actions is not correct
