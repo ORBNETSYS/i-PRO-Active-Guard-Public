@@ -4,7 +4,12 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-# [1.0.3] - In Progress
+# [1.5.0] - 31.01.2023
+
+- Fixed: Issue #85 Age range in face watchlist search window does not work
+- Fixed: Issue #86 When changing the Validity period on the People watchlist registration, the "Save" button is not displayed and cannot be updated
+
+# [1.0.3] - 27.01.2023
 
 ## 27.01.2023
 
