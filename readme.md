@@ -9,7 +9,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 ## 01.02.2023
 
 - Fixed: Issue #85 Age range in face watchlist search window does not work
-- Fixed: Issue #87 When changing the Validity period on the People watchlist registration, the "Save" button is not displayed and cannot be updated
+- Fixed: Issue #87 "middle" is used in API when threshold "High" is selected for Vehicle search filter
 
 ## 31.01.2023
 
