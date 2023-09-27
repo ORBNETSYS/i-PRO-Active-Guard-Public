@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [1.5.1] - 27.09.2023
+
+- Fixed: Issue #22 Display condition of action button for face image, people image, vehicle image
+- Added: Check applications installed on camera before displaying action buttons for face image, people image, vehicle image
+
 # [1.5.0] - 05.04.2023
 
 - Added: Support for Milestone Federated Architecture
