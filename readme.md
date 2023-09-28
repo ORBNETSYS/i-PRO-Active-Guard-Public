@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [1.5.2] - 28.09.2023
+
+- Fixed: Issue #22 Display condition of action button for face image, people image, vehicle image
+- Fixed: Issue #89 Exception error when "Search for exactly similar characteristics (less false result)" is selected for the specific image and then click "Clear" button
+
 # [1.5.1] - 27.09.2023
 
 - Fixed: Issue #22 Display condition of action button for face image, people image, vehicle image
