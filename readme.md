@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [1.6.4] - 08.02.2024
+- Fixed: issue #93 - LPR save problem
+- Fixed: issues #91 #92 #94 - Notify Event Server when a change is made to Management Client AG Settings
+
 # [1.5.2] - 28.09.2023
 
 - Fixed: Issue #22 Display condition of action button for face image, people image, vehicle image
