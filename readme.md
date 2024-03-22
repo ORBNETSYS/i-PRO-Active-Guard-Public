@@ -4,10 +4,22 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
-# [1.6.4] - 08.02.2024
-- Fixed: issue #93 - LPR save problem
-- Fixed: issues #91 #92 #94 - Notify Event Server when a change is made to Management Client AG Settings
-
+# [1.7.0] - 22.03.2024
+- Added: License plate search/watchlist by VaxLPR app
+- Added: People search/watchlist registration by upload photo
+- Added: Vehicle watchlist registration
+- Added: “Include similar color” option for people and vehicle search filter
+- Added: Display detected score
+- Added: "Bag", "Bag color", and "Shoes color" to the people watchlist.
+- Added: Sort face search result by similarity
+- Added: Multiple languages display  *included in this document
+- Added: Roles configuration for plug-in  
+- Changed: Improved the face detection accuracy on uploaded photos.
+- Changed: Improved the visibility and operability. 
+- Changed: Moved the thumbnail playback field to the top.
+- Changed: Added a black outline to the white text on thumbnails.
+- Changed: Displays a calendar on the [Date/Time] filtering field.
+        
 # [1.5.2] - 28.09.2023
 
 - Fixed: Issue #22 Display condition of action button for face image, people image, vehicle image
