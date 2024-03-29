@@ -5,6 +5,8 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 # [1.7.0] - 22.03.2024
+*Note: Saved search filter cannot be taken over when updating to v1.7. Please save again after updating if needed.
+
 - Added: License plate search/watchlist by VaxLPR app
 - Added: People search/watchlist registration by upload photo
 - Added: Vehicle watchlist registration
