@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 # [1.8.1] - 31.05.2024
  
 - Supports selecting multiple colors in “Hair color”, “Top color”, “Bottom color” and “Shoes color” for a people watchlist.
-- Fixed the issue #98
+- Fixed issue #98 - Playback time on "Popup playback" (right click menu) is not correct
 
 # [1.7.0] - 22.03.2024
 *Note: Saved search filter cannot be taken over when updating to v1.7. Please save again after updating if needed.
