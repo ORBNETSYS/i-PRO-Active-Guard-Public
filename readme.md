@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [2.0.0] - 19.11.2024
+
+- Added: Search objects on specified area
+- Added: Past event search UI
+- Added: Vaxtor LPR new vehicle class
+- Added: OCR search/watchlist by Vaxtor OCR Genesis app
+- Added: Container search/watchlist by Vaxtor OCR Container app
+- Added: “Add to export list” option button and right click menu
+- Added: Digital zoom on playback video
+- Added: Roles configuration for watchlist access and each attribute
+- Added: Automatic version check of plug-in/server
+
 # [1.8.1] - 31.05.2024
  
 - Supports selecting multiple colors in “Hair color”, “Top color”, “Bottom color” and “Shoes color” for a people watchlist.
