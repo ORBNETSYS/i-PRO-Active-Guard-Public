@@ -3,6 +3,11 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [2.0.2] - 25.03.2025
+
+-Compatibility issue with XProtect 2024R2 Smart client
+-Fixed issue #112 - When saving search filter conditions in the Event tab, the saved conditions in the Forensic tab are overwritten and disappear
+
 # [2.0.0] - 19.11.2024
 
 - Added: Search objects on specified area
