@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [2.0.3] - 04.10.2025
+
+-	Fixed: Crash related to audio channel when closing playback viewer.
+
 # [2.0.2] - 25.03.2025
 
 -	Fixed: Compatibility issue with XProtect 2024R2 Smart client
