@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [2.0.4] - 11.06.2025
+
+Fixed: Conflicts with other plugins (e.g. SmartWallCustomPresets, i-PRO Maximizer v1.2)
+
 # [2.0.3] - 04.10.2025
 
 -	Fixed: Crash related to audio channel when closing playback viewer.
