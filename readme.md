@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [2.1.0] - 28.08.2025
+
+Added: Support switching the display mode between "List" and "Timeline" on the search result pane.
+Added: "Time slot" checkbox to search filter
+Added: Support mouse operation for selecting time in search filters
+Added: Right click menu "Search for similar characteristics". Support searching for similar characteristics as the selected thumbnail.
+Added: Right click menu "Save people’s characteristics" menu. Support registering the characteristics to watchlist.
+Added:  The function to copy "Face watchlist" between servers in system consisting of multiple i-PRO Active Guard server.
+Changed: Added "Hat / Helmet" attribute to [People filter]. Instead, remove the "Hat" from the [Hair type] attribute.
+Changed plug-in log directory to “>%LOCALAPPDATA%\ActiveGuard\SmartClient\Logs”
+
 # [2.0.4] - 11.06.2025
 
 Fixed: Conflicts with other plugins (e.g. SmartWallCustomPresets, i-PRO Maximizer v1.2)
