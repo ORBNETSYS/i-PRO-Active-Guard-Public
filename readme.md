@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
+# [3.0.0] - 27.02.2026
+
+- Added: "Free text search" with Generative AI to the "People/Vehicle filter".
+- Added: "Person image similarity search" with Person Re-Identification technology. *AI People Detection Version 2.20 or later is required.
+- Added "Person image similarity search" using uploaded photos to the "People filter".
+- Added "Person image similarity search" using thumbnails in people search results.
+- Improved attribute detection from uploaded images.
+- Added: Support recognition and search for license plate states from Germany, Thailand, Egypt, Kazakhstan, and the UAE. *Vaxtor VaxALPR Version 1.4.3 or later is required.
+- Added: i-PRO Active Guard dashboard display on Smart client.
+- Added: i-PRO Active Guard server configuration display on Management client.
+- Added: Configuration to change the position of "camera name" and "date and time" on the search result thumbnails and its display/hide options.
+- Added: right click menu “Save the whole image” and “Add to bookmark”
+
 # [2.1.0] - 28.08.2025
 
 - Added: Support switching the display mode between "List" and "Timeline" on the search result pane.
